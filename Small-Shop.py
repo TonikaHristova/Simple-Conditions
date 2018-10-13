@@ -45,5 +45,5 @@ elif city == "varna":
         price = quantity * 1.55
 
 
-print(("%.2f" % price))
+print("%.2f" % price)
 
